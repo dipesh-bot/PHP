@@ -1,3 +1,3 @@
 <? php
-echo "Test PHP Dipesh";
+echo "Testing PHP Dipesh";
 ?>
